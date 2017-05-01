@@ -1,0 +1,5 @@
+﻿{
+  "dependencies": {
+    "microsoft.aspnetcore.server.kestrel": "1.1.1"
+  }
+}
